@@ -6,6 +6,6 @@ como criança, adolescente, adulto ou idoso baseado na idade fornecida.
 
 ## Como usar
 
-1. Execute o arquivo classificacao_de_idade.py
+1. Execute o arquivo classificador_de_idades.py
 2. Digite seu nome e idade quando solicitado
 3. Veja a classificação
