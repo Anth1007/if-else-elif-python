@@ -1,8 +1,11 @@
- nome = input("Insira seu nome: ")
- idade = int(input("insira sua idade: "))
- 
- print(nome)
+#solicita os dados do usuario
+nome = input("Insira seu nome: ")
+idade = int(input("insira sua idade: "))
 
+#exibe uma saudação ao usuario
+ print(f"Olá, {nome}!") 
+
+#utilizado if,elif, else para classificar o usuario de acordo com sua idade
  if idade <= 11:
      print("Vocë é uma criança, sem responsabilidades, vá se divertir, Brinque, aprenda, corra")
  elif idade <= 17:
